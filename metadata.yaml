@@ -1,0 +1,36 @@
+_repo: Theme-from-Mozart-s-Piano-Sonata-in-A-major-K.331Arranged-for-Solo-Guitar_17423
+_version: 0.1.0
+contributor:
+  arranger:
+    agent_name: Davis, Rick
+    gutenberg_agent_id: '38502'
+    url: http://www.gutenberg.org/2009/agents/38502
+  composer:
+    agent_name: Mozart, Wolfgang Amadeus
+    aliases:
+    - Mozart, W. A. (Wolfgang Amadeus)
+    - Mozart, Johann Chrysostom Wolfgang Amadeus
+    birthdate: 1756
+    deathdate: 1791
+    gutenberg_agent_id: '1368'
+    url: http://www.gutenberg.org/2009/agents/1368
+    wikipedia: http://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2005-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17423'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Guitar music, Arranged'
+- !lcc 'M'
+title: 'Theme from Mozart''s Piano Sonata in A major, K.331
+
+  Arranged for Solo Guitar'
+url: http://www.gutenberg.org/ebooks/17423
