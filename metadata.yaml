@@ -19,6 +19,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17423#Theme-from-Mozart-s-Piano-Sonata-in-A-major-K.331Arranged-for-Solo-Guitar
 gutenberg_issued: '2005-12-31'
 gutenberg_type: Text
 identifiers:
